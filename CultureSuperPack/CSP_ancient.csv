@@ -5,7 +5,7 @@ Akkadians,/Images/Affinity/expansion_affinity.png,Expansionist,"-25% instability
 +3 Influence
 +2 Faith
 +10 Stability
--20% territory attachment cost in this city",/Images/CultureSuperPack.png,Axemen,"Replaces Warriors
+-20% territory attachment cost in this city",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/akkadians_unit.png,Axemen,"Replaces Warriors
 20 Combat Strength (instead of 19 for Warriors)
 +3 Combat Strength when attacking a unit that wasn?t adjacent at the start of the round (same as Charge ability)
 Unlocks at City Defense (same as Warriors)
@@ -19,7 +19,7 @@ Hallstatt,/Images/Affinity/builder_affinity.png,Builder,"+5 Industry on Holy Sit
 +3 Faith per Silver
 +1 Worker Slot
 Counts as Makers Quarter
-Unlocks at Bronze-working (like the Copper Mine)",/Images/CultureSuperPack.png,Seers,"Does not replace any unit (upgrades to Horsemen)
+Unlocks at Bronze-working (like the Copper Mine)",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/hallstatt_unit.png,Seers,"Does not replace any unit (upgrades to Horsemen)
 13 Combat Strength
 +3 Combat Strength on allied units when fighting stronger units"
 Kucadikadi,/Images/Affinity/agrarian_affinity.png,Agrarian,"Lake Exploitations have yields equal to the combined yields of all adjacent land Exploitations
@@ -29,7 +29,7 @@ Must be bought out with Influence in an unattached territory
 +1 Industry
 +1 Money
 +2 Industry per adjacent Dry Grass Exploitation
-Counts as Makers Quarter",/Images/CultureSuperPack.png,Foragers,"Replaces Scouts (all Tribes are converted to Foragers when entering the Ancient Era)
+Counts as Makers Quarter",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/kucadikadi_unit.png,Foragers,"Replaces Scouts (all Tribes are converted to Foragers when entering the Ancient Era)
 13 Combat Strength (same as Scouts)
 Regenerates health outside your territory"
 Lac Viet,/Images/Affinity/aesthete_affinity.png,Aesthete,"On Strategic Resource deposit:
@@ -42,7 +42,7 @@ Per adjacent Strategic Resource deposit:
 +2 Faith
 +1 Worker Slot
 Counts as Makers Quarter
-Unlocks at Bronze-working",/Images/CultureSuperPack.png,Dieu Nhan,"Replaces Warriors
+Unlocks at Bronze-working",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/lacviet_unit.png,Dieu Nhan,"Replaces Warriors
 19 Combat Strength (same as Warriors)
 +4 Combat Strength when fighting a stronger unit
 Ignores Combat Strength malus from damage
@@ -53,7 +53,7 @@ Cities with 7 Population or less do not count toward your city cap",/Images/Cult
 +2 Influence
 +1 Food per embarked unit in this city
 +1 Farmer Slot
-Counts as Farmers Quarter",/Images/CultureSuperPack.png,Navigators,"Does not replace any unit
+Counts as Farmers Quarter",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/lapita_unit.png,Navigators,"Does not replace any unit
 Naval transport unit (upgrades to Caravels)
 4 Combat Strength
 1 Movement
@@ -65,7 +65,7 @@ Minoans,/Images/Affinity/scientist_affinity.png,Scientist,"Science from terrain 
 This bonus automatically doubles to 2 because of the effect of the Legacy Trait
 +1 Science per adjacent Exploitation producing Science
 +1 Researcher Slot
-Counts as Research Quarter",/Images/CultureSuperPack.png,Bull Warriors,"Replaces Warriors
+Counts as Research Quarter",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/minoans_unit.png,Bull Warriors,"Replaces Warriors
 18 Combat Strength (instead of 19 for Warriors)
 +5 Combat Strength when attacking
 Unlocks at City Defense (same as Warriors)"
@@ -78,7 +78,7 @@ Phrygians,/Images/Affinity/militarist_affinity.png,Militarist,"Science from terr
 Units starting their turn on this district:
 +2 Combat Strength
 +4 Movement
-Can only be built once per city",/Images/CultureSuperPack.png,Auletes,"Does not replace any unit (upgrades to Horsemen)
+Can only be built once per city",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/phrygians_unit.png,Auletes,"Does not replace any unit (upgrades to Horsemen)
 14 Combat Strength
 5 Movement
 +3 Movement when retreating
@@ -94,7 +94,7 @@ Per adjacent river:
 +2 Food
 +1 Trader Slot
 Counts as Market Quarter
-Exploits adjacent river tiles for Money",/Images/CultureSuperPack.png,Canoe Warriors,"Replaces Warriors
+Exploits adjacent river tiles for Money",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/sahaptin_unit.png,Canoe Warriors,"Replaces Warriors
 20 Combat Strength (instead of 19 for Warriors)
 Ignores movement penalties from crossing rivers
 Unlocks at City Defense (same as Warriors)"
@@ -102,7 +102,7 @@ Shona,/Images/Affinity/agrarian_affinity.png,Agrarian,"+5 Food on Main Plaza
 +4 Food in capital per attached territory",/Images/CultureSuperPack.png,Zimbabwe,"Allows construction of new districts on adjacent tiles
 -2% Population consumption in capital
 +1 Farmer Slot
-Counts as Farmers Quarter",/Images/CultureSuperPack.png,Running Spears,"Replaces Spearmen
+Counts as Farmers Quarter",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/shona_unit.png,Running Spears,"Replaces Spearmen
 19 Combat Strength (instead of 18 for Spearmen)
 5 Movement (instead of 4 for Spearmen)
 May move during battle until all movement points are exhausted
@@ -121,7 +121,7 @@ Coastal Water tiles must be exploited (so you need a harbor)
 +3 Food per Ambergris
 +3 Money per Pearls
 Counts as Farmers Quarter
-Counts as Market Quarter",/Images/CultureSuperPack.png,Harpooners,"Replaces Scouts (all Tribes are converted to Harpooners when entering the Ancient Era)
+Counts as Market Quarter",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/Sivullirmiut_unit.png,Harpooners,"Replaces Scouts (all Tribes are converted to Harpooners when entering the Ancient Era)
 17 Combat Strength (instead of 13 for Scouts)
 3 Movement (instead of 4 for Scouts)
 Fights at full strength in melee
@@ -131,7 +131,7 @@ Valdivia,/Images/Affinity/agrarian_affinity.png,Agrarian,"+2 Food on Coastal Wat
 +1 Food on Lake",/Images/CultureSuperPack.png,Net Weaver,"+3 Industry
 +5 Food on adjacent Coastal Water Exploitations
 Coastal Water tiles must be exploited (so you need a harbor)
-Counts as Makers Quarter",/Images/CultureSuperPack.png,Emissaries,"Replaces Scouts (all Tribes are converted to Emissaries when entering the Ancient Era)
+Counts as Makers Quarter",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/valdivia_unit.png,Emissaries,"Replaces Scouts (all Tribes are converted to Emissaries when entering the Ancient Era)
 12 Combat Strength (instead of 13 for Scouts)
 6 Vision (instead of 4 for Scouts)
 Regenerates health outside your territory"
@@ -146,7 +146,7 @@ Per adjacent Research Quarter:
 +2 Science
 +2 Influence
 +1 Researcher Slot
-Counts as Research Quarter",/Images/CultureSuperPack.png,Dagger-Axe Warriors,"Replaces Spearmen
+Counts as Research Quarter",https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/cdb747a57ed7be14acee1ea13d6ccda78d2a916a/Resources/Emblematic%20Units/Ancient/yayoi_unit.png,Dagger-Axe Warriors,"Replaces Spearmen
 19 Combat Strength (instead of 18 for Spearmen)
 -4 Combat Strength on units when defending against this unit
 Unlocks at Bronze-working (same as Spearmen)"
